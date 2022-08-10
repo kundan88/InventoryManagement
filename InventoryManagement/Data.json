@@ -1,45 +1,17 @@
-{
-  "TypesofRice": [
-    {
-      "name": "Basumati",
-      "weight": 4,
-      "price": 240
-    },
-    {
-      "name": "Rice1",
-      "weight": 6,
-      "price": 180
-    }
-  ],
-  "TypesofPulses": [
-    {
-      "name": "HorseGram",
-      "weight": 2,
-      "price": 80
-    },
-    {
-      "name": "GreenGram",
-      "weight": 5,
-      "price": 180
-    }
-  ],
-
-
-  "TypesofWheat": [
-    {
-      "name": "Wheat1",
-      "weight": 10,
-      "price": 60
-    },
-    {
-      "name": "Wheat2",
-      "weight": 7,
-      "price": 90
-    },
-    {
-      "name": "Wheat3",
-      "weight": 8,
-      "price": 120
-    }
-  ]
-}
+[
+  {
+    "NumberOFShare": 10,
+    "SharePrice": 100,
+    "StockName": "Stock1"
+  },
+  {
+    "NumberOFShare": 20,
+    "SharePrice": 500,
+    "StockName": "Stock2"
+  },
+  {
+    "NumberOFShare": 40,
+    "SharePrice": 1000,
+    "StockName": "Stock3"
+  }
+] 
