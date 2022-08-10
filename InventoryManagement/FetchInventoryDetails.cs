@@ -23,6 +23,7 @@ namespace InventoryManagement
 
                     return JsonConvert.DeserializeObject<Rice>(json);
 
+
                 }
                 catch (Exception)
                 {

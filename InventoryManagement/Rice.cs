@@ -12,7 +12,6 @@ namespace InventoryManagement
         public List<TypesofPulses> typesofPulses;
         public List<TypesofWheat> typesofWheat;
     }
-
     public class TypesofRice
     {
         public string name;
